@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40088754308",
+    "firebase_url": "https://speknet-20136.firebaseio.com",
+    "project_id": "speknet-20136",
+    "storage_bucket": "speknet-20136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40088754308:android:fa8a0553024feaba",
+        "android_client_info": {
+          "package_name": "com.example.himanshu.speknet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40088754308-fqami870rnt5g48l4n0n3q8euingeojj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himanshu.speknet",
+            "certificate_hash": "51f018993d4e959eec83bf25a60baddda26a89f0"
+          }
+        },
+        {
+          "client_id": "40088754308-iqqrgvvmp74s5up85djromhrarpbs7t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfl9zxeR8qE_3HBlVzn9gTWVsBZyw2Bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40088754308-iqqrgvvmp74s5up85djromhrarpbs7t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
