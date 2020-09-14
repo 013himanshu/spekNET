@@ -7,8 +7,9 @@ It also helps to share information for any upcoming event for research paper and
   <tr>
     <td><img src="https://user-images.githubusercontent.com/29120494/93118595-24df2d80-f6de-11ea-9a3b-cc140172ebe4.png" height="500px" /></td>
     <td><img src="https://user-images.githubusercontent.com/29120494/93118875-8ef7d280-f6de-11ea-97f6-bc333d028d99.png" height="500px" /></td>
+    <td><img src="https://user-images.githubusercontent.com/29120494/93119411-645a4980-f6df-11ea-895c-da3a37724f41.png" height="500px" /></td>
   </tr>
   <tr>
-    
+    <td></td>  
   </tr>
 </table>
