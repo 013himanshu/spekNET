@@ -10,6 +10,7 @@ It also helps to share information for any upcoming event for research paper and
     <td><img src="https://user-images.githubusercontent.com/29120494/93119411-645a4980-f6df-11ea-895c-da3a37724f41.png" height="500px" /></td>
   </tr>
   <tr>
-    <td></td>  
+    <td><img src="https://user-images.githubusercontent.com/29120494/93119557-9f5c7d00-f6df-11ea-8661-2aba3f158f3d.png" height="500px" /></td>
+    <td><img src="" height="500px" /></td>
   </tr>
 </table>
