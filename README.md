@@ -12,6 +12,6 @@ It also helps to share information for any upcoming event for research paper and
   <tr>
     <td><img src="https://user-images.githubusercontent.com/29120494/93119557-9f5c7d00-f6df-11ea-8661-2aba3f158f3d.png" height="500px" /></td>
     <td><img src="https://user-images.githubusercontent.com/29120494/93119648-d03cb200-f6df-11ea-8958-5a71e0dfee8e.png" height="500px" /></td>
-    <td><img src="" height="500px" /></td>
+    <td><img src="https://user-images.githubusercontent.com/29120494/93120113-7ee0f280-f6e0-11ea-9b6f-e5e117566e78.png" height="500px" /></td>
   </tr>
 </table>
